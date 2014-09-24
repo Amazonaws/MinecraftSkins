@@ -1,5 +1,4 @@
-# test
-
+# Test
 
 ![Notepad editing a commit](https://raw.githubusercontent.com/amazonaws/MinecraftSkins/gh-pages/silver8563.png)
 
