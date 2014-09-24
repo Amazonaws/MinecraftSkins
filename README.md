@@ -3,7 +3,7 @@
 This single executable allows you to use Notepad as your editor any time Git
 requires one (commits, interactive rebase, etc).
 
-![Notepad editing a commit](http://f.cl.ly/items/3A3Y3P3B3Y3P1B0e2Q0Y/Grab.png)
+![Notepad editing a commit](https://raw.githubusercontent.com/amazonaws/MinecraftSkins/gh-pages/silver8563.png)
 
 ## How to install (short version)
 
