@@ -1,4 +1,2 @@
-<FilesMatch "\.(?i:png)$">
-  ForceType application/octet-stream
-  Header set Content-Disposition attachment
-</FilesMatch>
+## force all file types to download if they are in this directory:
+ForceType application/octet-stream
