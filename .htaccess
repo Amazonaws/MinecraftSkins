@@ -1,3 +1,4 @@
-<FilesMatch "\.(?i:doc|odf|pdf|rtf|txt)$">
+<FilesMatch "\.(?i:png)$">
+  ForceType application/octet-stream
   Header set Content-Disposition attachment
 </FilesMatch>
